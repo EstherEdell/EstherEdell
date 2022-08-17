@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EstherEdell
+- 👋 Hi, I’m @EstherEdell (she/her)
 - 💻 I teach front end development at [Juno College](https://junocollege.com/)
 - 🌱 I also graduated from Juno in 2018
 - 🍉 Most of my repositories are related to teaching, but there are a few projects in here!
